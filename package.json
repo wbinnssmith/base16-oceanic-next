@@ -1,0 +1,10 @@
+{
+  "name": "base16-oceanic-next",
+  "version": "1.0.0",
+  "description": "A base16 version of oceanic-next",
+  "author": "Will Binns-Smith",
+  "license": "MIT",
+  "devDependencies": {
+    "pageres-cli": "^1.0.0"
+  }
+}
