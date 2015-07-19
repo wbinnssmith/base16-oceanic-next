@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<style-scheme version="1.0" name="Base 16 Oceanic Next">
+
+  <!-- main colors, skipping one of attributes (backgroud/foreground) will use color from here -->
+  <style name="Text" foreground="#C0C5CE" background="#1B2B34"/>
+
+  <!-- it will be underlined by default -->
+  <style name="Link"/>
+
+  <!-- selection, current line, search, matching brackets -->
+  <style name="Selection" background="#A7ADBA"/>
+  <style name="CurrentLine" background="#65737E"/>
+  <style name="LineNumber" foreground="#65737E"/>
+  <style name="CurrentLineNumber" foreground="#A7ADBA" bold="true"/>
+  <style name="SearchResult" background="343D46"/>
+  <style name="Parentheses" background="#4F5B66" />
+
+  <!-- ??? -->
+  <style name="SearchScope" foreground="#000000" background="#ffffff"/>
+
+  <!-- word (symbol) under cursor: background - color of marking frame, foreground - ignored -->
+  <style name="Occurrences" background="#65737E"/>
+  <style name="Occurrences.Rename" background="#A7ADBA"/>
+  <!-- unused variable: foreground - color of underlining -->
+  <style name="Occurrences.Unused" foreground="#F99157"/>
+
+  <!-- language primitives -->
+  <style name="Number" foreground="#F99157"/>
+  <style name="String" foreground="#99C794"/>
+  <style name="Keyword" foreground="#C594C5"/>
+  <style name="Operator" foreground="#C0C5CE"/>
+  <style name="Preprocessor" foreground="#6699CC"/>
+  <style name="Label" foreground="#EC5f67"/>
+
+  <!-- types, classes -->
+  <style name="Type" foreground="#FAC863"/>
+
+  <!-- functions, methods -->
+  <style name="Function" foreground="#6699CC"/>
+  <style name="VirtualMethod" foreground="#6699CC" italic="true"/>
+
+  <!-- variables -->
+  <style name="Field" foreground="#CDD3DE"/>
+  <style name="Local" foreground="#C0C5CE"/>
+  <style name="Static" foreground="#C0C5CE"/>
+  <style name="JsScopeVar" foreground="#C0C5CE" italic="true"/>
+  <style name="JsImportVar" foreground="#C0C5CE" italic="true"/>
+  <style name="JsGlobalVar" foreground="#C0C5CE" italic="true"/>
+
+  <!-- whitespace -->
+  <style name="VisualWhitespace" foreground="#4F5B66"/>
+
+  <!-- comments -->
+  <style name="Comment" foreground="#65737E"/>
+  <style name="DisabledCode" foreground="#65737E"/>
+  <style name="Doxygen.Comment" foreground="#65737E"/>
+  <style name="Doxygen.Tag" foreground="#65737E"/>
+
+  <!-- QML -->
+  <style name="QmlTypeId" foreground="#C594C5"/>
+  <style name="Binding" foreground="#EC5f67"/>
+  <style name="QmlExternalId" foreground="#6699CC" italic="true"/>
+  <style name="QmlExternalObjectProperty" foreground="#6699CC" italic="true"/>
+  <style name="QmlLocalId" italic="true"/>
+  <style name="QmlRootObjectProperty" italic="true"/>
+  <style name="QmlScopeObjectProperty" italic="true"/>
+  <style name="QmlStateName" italic="true"/>
+
+  <!-- inline diff -->
+  <style name="DiffFile" foreground="#C594C5"/>
+  <style name="DiffLocation" foreground="#6699CC"/>
+  <style name="AddedLine" foreground="#99C794"/>
+  <style name="RemovedLine" foreground="#FAC863"/>
+
+  <!-- side-by-side diff -->
+  <style name="DiffFileLine" foreground="#C594C5"/>
+  <style name="DiffContextLine" foreground="#6699CC"/>
+  <style name="DiffSourceLine" foreground="#99C794"/>
+  <style name="DiffSourceChar" foreground="#FAC863" background="#343D46"/>
+  <style name="DiffDestLine" foreground="#99C794"/>
+  <style name="DiffDestChar" foreground="#FAC863" background="#343D46"/>
+</style-scheme>

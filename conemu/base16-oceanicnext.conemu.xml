@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<key name="Software">
+	<key name="ConEmu">
+      <value name="ColorTable00" type="dword" data="00342B1B"/>
+      <value name="ColorTable01" type="dword" data="00CC9966"/>
+      <value name="ColorTable02" type="dword" data="0094C799"/>
+      <value name="ColorTable03" type="dword" data="00B3B35F"/>
+      <value name="ColorTable04" type="dword" data="005791F9"/>
+      <value name="ColorTable05" type="dword" data="00C594C5"/>
+      <value name="ColorTable06" type="dword" data="0063C8FA"/>
+      <value name="ColorTable07" type="dword" data="00BAADA7"/>
+      <value name="ColorTable08" type="dword" data="007E7365"/>
+      <value name="ColorTable09" type="dword" data="00CC9966"/>
+      <value name="ColorTable10" type="dword" data="0094C799"/>
+      <value name="ColorTable11" type="dword" data="00B3B35F"/>
+      <value name="ColorTable12" type="dword" data="00675fEC"/>
+      <value name="ColorTable13" type="dword" data="006779AB"/>
+      <value name="ColorTable14" type="dword" data="0063C8FA"/>
+      <value name="ColorTable15" type="dword" data="00E9DED8"/>
+      <value name="ColorTable16" type="dword" data="00342B1B"/>
+      <value name="ColorTable17" type="dword" data="00CC9966"/>
+      <value name="ColorTable18" type="dword" data="0094C799"/>
+      <value name="ColorTable19" type="dword" data="00B3B35F"/>
+      <value name="ColorTable20" type="dword" data="005791F9"/>
+      <value name="ColorTable21" type="dword" data="00C594C5"/>
+      <value name="ColorTable22" type="dword" data="0063C8FA"/>
+      <value name="ColorTable23" type="dword" data="00BAADA7"/>
+      <value name="ColorTable24" type="dword" data="007E7365"/>
+      <value name="ColorTable25" type="dword" data="00CC9966"/>
+      <value name="ColorTable26" type="dword" data="0094C799"/>
+      <value name="ColorTable27" type="dword" data="00B3B35F"/>
+      <value name="ColorTable28" type="dword" data="00675fEC"/>
+      <value name="ColorTable29" type="dword" data="006779AB"/>
+      <value name="ColorTable30" type="dword" data="0063C8FA"/>
+      <value name="ColorTable31" type="dword" data="00E9DED8"/>
+    </key>
+</key>
