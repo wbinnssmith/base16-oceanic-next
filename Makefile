@@ -16,7 +16,7 @@ colors: build
 	@ln -sf vim $@
 
 preview.png: build node_modules
-	@$(PAGERES) --selector 'body' --scale 2 --filename preview preview/$(PREVIEW) 2800x1400
+	@$(PAGERES) --selector 'body > div > pre' --filename preview preview/$(PREVIEW) 1600x1200
 
 clean:
 	@find . -type d ! -path '*/\.*' ! -path '\.' -print0 | xargs -0 rm -rf
